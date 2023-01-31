@@ -16,11 +16,11 @@ Este repositorio contiene los ejercicios del módulo 3, sprint 1, del Bootcamp d
 
 En este primer apartado se ha abordado la Regresión Lineal, una técnica de análisis de datos que predice el valor de datos de variables continuas, mediante el uso de otro valor de datos relacionado y conocido, es decir, es un tipo de aprendizaje autómatico supervisado.
 
-1.pp-intro-machine-learning.ipynb
+- 1.pp-intro-machine-learning.ipynb
 
-2.pp-test-estadisticos.ipynb
+- 2.pp-test-estadisticos.ipynb
 
-3.pp-asunciones.ipynb
+- 3.pp-asunciones.ipynb
 
 4.pp-correlacionycovarianza.ipynb
 
