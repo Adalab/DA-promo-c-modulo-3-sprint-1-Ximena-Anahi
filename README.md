@@ -46,15 +46,15 @@ En este segundo bloque se han desarrollado los ejercicios de la Regresión Logí
 Carpeta: datos: Contiene los archivos utilizados para la realización de los ejercicios.
 
 
-3. ** files:** :file_folder:
+**3. files:** :file_folder:
 
 Carpeta que contiene los archivos utilizados para la realización y producto de los ejercicios de la Regresión Lineal.
 
-4. **files_rl:** :open_file_folder:
+**4. files_rl:** :open_file_folder:
 
 Carpeta que contiene los archivos utilizados para la realización y producto de los ejercicios de la Regresión Logística.
     
-**4. Integrantes** :woman: :woman:
+**5. Integrantes** :woman: :woman:
   
   *[Anahí](https://github.com/Animorales)
   *[Ximena](https://github.com/XimenaPTM)
