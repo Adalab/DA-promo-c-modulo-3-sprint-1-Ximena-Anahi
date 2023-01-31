@@ -48,11 +48,11 @@ Carpeta: datos: Contiene los archivos utilizados para la realización de los eje
 
 **3. files:** :file_folder:
 
-Carpeta que contiene los archivos utilizados para la realización y producto de los ejercicios de la Regresión Lineal.
+Carpeta que contiene los archivos utilizados para la realización de los ejercicios de la Regresión Lineal y los generados en dichos ejercicios.
 
 **4. files_rl:** :open_file_folder:
 
-Carpeta que contiene los archivos utilizados para la realización y producto de los ejercicios de la Regresión Logística.
+Carpeta que contiene los archivos utilizados para la realización de los ejercicios de la Regresión Logística y los generados en dichos ejercicios.
     
 **5. Integrantes** :woman: :woman:
   
