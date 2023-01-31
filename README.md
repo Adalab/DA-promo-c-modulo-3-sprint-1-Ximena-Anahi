@@ -12,23 +12,34 @@ Este repositorio contiene los ejercicios del módulo 3, sprint 1, del Bootcamp d
 5. Integrantes
 
 
-
 **1.Regresión Lineal :** :chart:
 
 En este primer apartado se ha abordado la Regresión Lineal, una técnica de análisis de datos que predice el valor de datos de variables continuas, mediante el uso de otro valor de datos relacionado y conocido, es decir, es un tipo de aprendizaje autómatico supervisado.
 
 1.pp-intro-machine-learning.ipynb
+
 2.pp-test-estadisticos.ipynb
+
 3.pp-asunciones.ipynb
+
 4.pp-correlacionycovarianza.ipynb
+
 5.pp-normalizacion.ipynb
+
 6.pp-estandarizacion.ipynb
+
 7.pp-anova.ipynb
+
 8.pp-encoding.ipynb
+
 9.pp-regresion-lineal-intro.ipynb
+
 10.pp-regresion-lineal-metricas.ipynb
+
 11.pp_decision_tree.ipynb
+
 12.pp_random_forest.ipynb
+
 
 Carpeta gráficas: Contiene algunas gráficas producto de los ejercicios.
 
@@ -38,13 +49,16 @@ Carpeta gráficas: Contiene algunas gráficas producto de los ejercicios.
 En este segundo bloque se han desarrollado los ejercicios de la Regresión Logística, una técnica de análisis de datos que predice el valor de datos de variables discretas, mediante el uso de otro valor de datos relacionado y conocido, es decir, es un tipo de aprendizaje autómatico supervisado.
 
 1.pp-regresion-logistica-EDA.ipynb
+
 2.pp-rl-preprocesado.ipynb
+
 3.pp-rlog-ajuste.ipynb
+
 4.pp-rlog-metricas.ipynb
 
+5.pp-rlog-decisiontree.ipynb
 
-Carpeta: datos: Contiene los archivos utilizados para la realización de los ejercicios.
-
+6.pp-rlog-randomforest.ipynb
 
 **3. files:** :file_folder:
 
